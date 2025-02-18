@@ -1,5 +1,7 @@
 # Dice Roller
-# By Anna Vahtera 2020
+# By Anna Vahtera 2020-2025
+#
+# Version 1.0.1
 #
 # accepts "x" or "ndx" as argument [ex: 2d6]
 # Where n is the number of dice to roll and x is the faces of the die. 
