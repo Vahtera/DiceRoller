@@ -6,4 +6,4 @@ If '7' or 'd7' is used, the system will subsitute The Seven RPG system dicerolls
 You can also use 'w' instead of 'd' between the two numbers to switch to Storyteller Dice (number of d10 against Target Number)
 You can add 's' as another argument after the first one to see the intermediate rolls and not just the total.
 ```
-![Screenshot of DiceRoller](https://imgur.com/yKcaoiG)
+![Screenshot of DiceRoller](https://imgur.com/yKcaoiG.png)
